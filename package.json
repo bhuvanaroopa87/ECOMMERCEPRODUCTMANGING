@@ -1,0 +1,18 @@
+{
+  "name": "manageproductslist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "manageproducts.js",
+  "dependencies": {
+    "bankers": "^1.0.5",
+    "ecommerceuserlist": "^1.0.0",
+    "suppliers": "^1.0.1",
+    "underscore": "^1.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roopa",
+  "license": "ISC"
+}
